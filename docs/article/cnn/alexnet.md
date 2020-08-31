@@ -6,6 +6,7 @@ $$
 i i(x, y)=\sum_{x^{\prime} \leqslant x, y^{\prime}\leqslant y} i\left(x^{\prime}, y^{\prime}\right)
 $$
 
-##### 测试本地图片显示问题
 
-![用户头像](../../icon.jpg)
+##### 图片可以正常显示啦~
+
+![爱心](../../爱心.svg)
