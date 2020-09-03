@@ -25,6 +25,18 @@
         noData: 'No Results!',
         depth: 6,
       },
+      count:{
+        countable:true,
+        fontsize:'0.9em',
+        color:'rgb(90,90,90)',
+        language:'chinese'
+      },
+      pagination: {
+        previousText: '上一篇',
+        nextText: '下一篇',
+        crossChapter: true,
+        crossChapterText: true,
+      },
       externalLinkTarget:'_blank',
       name: '<font size="5" title="返回封面">HOME</font>',
       repo: 'https://github.com/wywd'
@@ -38,5 +50,8 @@
   <script src="//unpkg.com/prismjs/components/prism-clike.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-cpp.js"></script> 
   <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>
