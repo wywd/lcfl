@@ -1,11 +1,8 @@
 * [简介](README.md)
 * 1\.卷积神经网络
   * [1.1 卷积神经网络综述](/article/cnn/卷积神经网络综述.md)
-  * [1.2 AlexNet](/article/cnn/alexnet.md)
-  * [1.3 VGG Net](/article/cnn/vgg.md)
-* 2\.人脸活体检测
-* 3\.生成对抗网络
-* 4\.传统图像处理
-  * [4.1护照防伪算法实验](/article/图像处理/护照防伪实验.md)
-* 5\.JVM笔记
-  * [5.1]()
+* 2\.JVM笔记
+  * [2.1](/article/jvm/1-JVM与Java体系结构.md)
+  * [2.2](/article/jvm/2-类加载子系统.md)
+
+
