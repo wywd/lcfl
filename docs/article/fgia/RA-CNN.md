@@ -92,7 +92,7 @@ $L_{\text {rank}}\left(p_{t}^{(s)}, p_{t}^{(s+1)}\right)=\max \left\{0, p_{t}^{(
 ### 4.1 Datasets
 ### 4.2 Experiments on CUB2002011
 
-![](./fgia_pic/RA-CNN-CUB-2011实验结果.jpg ':size=100%')  
+![](./fgia_pic/RA-CNN-CUB-2011实验结果.jpg ':size=75%')  
 
 
 ## References
